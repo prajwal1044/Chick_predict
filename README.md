@@ -1,0 +1,1 @@
+Using a database of diseased poultry chicken fecal images to develop a tool that uses deep learning to classify between diseases using the Convolutional Neural Network , Transfer Learning, and Fine-tuning models, as well as by developing a streamlit application
